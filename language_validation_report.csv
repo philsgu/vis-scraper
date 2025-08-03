@@ -1,0 +1,49 @@
+Language,Language Value,Dropdown Index,Successfully Scraped,Vaccine Count,Notes
+Albanian,albanian,0,Yes,2,Data found
+Amharic,amharic,1,Yes,5,Data found
+Arabic,arabic,2,Yes,8,Data found
+Armenian,armenian,3,Yes,7,Data found
+Bengali,bengali,4,Yes,6,Data found
+Bosnian,bosnian,5,No,0,No data or error
+Burmese,burmese,6,Yes,8,Data found
+Chinese-Simplified,chinese-simplified,7,Yes,8,Data found
+Chinese-Traditional,chinese-traditional,8,Yes,8,Data found
+Chuukese,chuukese,9,Yes,5,Data found
+Dari,dari,10,Yes,6,Data found
+Farsi,farsi,11,Yes,8,Data found
+French,french,12,Yes,8,Data found
+German,german,13,Yes,7,Data found
+Haitian Creole,haitian-creole,14,Yes,7,Data found
+Hebrew,hebrew,15,Yes,5,Data found
+Hindi,hindi,16,Yes,8,Data found
+Hmong,hmong,17,Yes,6,Data found
+Ilokano,ilokano,18,Yes,5,Data found
+Indonesian,indonesian,19,Yes,6,Data found
+Italian,italian,20,Yes,7,Data found
+Japanese,japanese,21,Yes,7,Data found
+Karen,karen,22,Yes,3,Data found
+Khmer (Cambodian),khmer-cambodian,23,Yes,7,Data found
+Kinyarwanda,kinyarwanda,24,Yes,4,Data found
+Korean,korean,25,Yes,7,Data found
+Marshallese,marshallese,26,No,0,No data or error
+Nepali,nepali,27,Yes,5,Data found
+Oromo,oromo,28,Yes,7,Data found
+Pashto,pashto,29,Yes,7,Data found
+Pohnpeian,pohnpeian,30,Yes,4,Data found
+Polish,polish,31,Yes,7,Data found
+Portuguese,portuguese,32,Yes,7,Data found
+Punjabi,punjabi,33,Yes,1,Data found
+Russian,russian,34,Yes,8,Data found
+Samoan,samoan,35,Yes,4,Data found
+Somali,somali,36,Yes,8,Data found
+Spanish,spanish,37,Yes,25,Data found
+Swahili,swahili,38,Yes,7,Data found
+Tagalog,tagalog,39,Yes,8,Data found
+Thai,thai,40,Yes,6,Data found
+Tigrinya,tigrinya,41,Yes,4,Data found
+Tongan,tongan,42,Yes,4,Data found
+Turkish,turkish,43,Yes,11,Data found
+Ukrainian,ukrainian,44,Yes,7,Data found
+Urdu,urdu,45,Yes,7,Data found
+Vietnamese,vietnamese,46,Yes,8,Data found
+Yiddish,yiddish,47,Yes,7,Data found

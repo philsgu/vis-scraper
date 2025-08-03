@@ -1,0 +1,18 @@
+[project]
+name = "vis-scraper"
+version = "0.1.0"
+description = "A Python script to scrape VIS translations from Immunize.org"
+authors = [
+    {name = "Developer", email = "dev@example.com"}
+]
+dependencies = [
+    "playwright>=1.40.0",
+]
+requires-python = ">=3.12"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+dev-dependencies = [] 
